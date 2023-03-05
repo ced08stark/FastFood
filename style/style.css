@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-image: url("../images/background.jpg");
+  
+    background-size: cover;
+    margin: 70px;
+}
+
+
+
+.container-items{
+    margin-top: 200px;
+    display: block;
+   
+
+}
+
+#title{
+    text-transform: uppercase;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#subtitle{
+    color: white;
+    font-size: 76px;
+    font-weight: bold;
+}
+
+
+
+#info{
+    margin-top: 40px;
+    color: white;
+    font-size: 14px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+   
+}
+
+
+
+
+a{
+    padding: 12px 30px 12px 30px;
+    text-decoration: none; 
+    color: white;
+    background-color: #db545a;
+    border-radius: 25px;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+#btn{
+    margin-top: 30px;
+    display: block;
+}
+
